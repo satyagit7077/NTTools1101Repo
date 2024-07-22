@@ -14,4 +14,7 @@ public class Payment {
 		return "payPal is integrated";
 	}
 	
+	public String bharatPay() {
+		return "bharat pay is integrated";
+	}
 }
