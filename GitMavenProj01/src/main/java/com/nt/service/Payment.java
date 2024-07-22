@@ -9,4 +9,9 @@ public class Payment {
 	public String doUpiPayment() {
 		return "Do upi Payment is done";
 	}
+	
+	public String payPal() {
+		return "payPal is integrated";
+	}
+	
 }
